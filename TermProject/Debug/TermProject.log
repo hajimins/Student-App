@@ -1,0 +1,24 @@
+﻿  Lib.c
+C:\Users\User\source\repos\TermProject\TermProject\lib.h(16,2): warning C4091: 'typedef ': ignored on left of 'size' when no variable is declared
+C:\Users\User\source\repos\TermProject\TermProject\Lib.c(19,7): warning C4101: 'cmp': unreferenced local variable
+C:\Users\User\source\repos\TermProject\TermProject\Lib.c(16,6): warning C4101: 'id': unreferenced local variable
+C:\Users\User\source\repos\TermProject\TermProject\Lib.c(319,43): warning C4020: 'fseek': too many actual parameters
+C:\Users\User\source\repos\TermProject\TermProject\Lib.c(326,57): warning C4020: 'fseek': too many actual parameters
+C:\Users\User\source\repos\TermProject\TermProject\Lib.c(333,92): warning C4020: 'fseek': too many actual parameters
+C:\Users\User\source\repos\TermProject\TermProject\Lib.c(340,104): warning C4020: 'fseek': too many actual parameters
+C:\Users\User\source\repos\TermProject\TermProject\Lib.c(347,39): warning C4020: 'fseek': too many actual parameters
+C:\Users\User\source\repos\TermProject\TermProject\Lib.c(354,74): warning C4020: 'fseek': too many actual parameters
+C:\Users\User\source\repos\TermProject\TermProject\Lib.c(361,88): warning C4020: 'fseek': too many actual parameters
+C:\Users\User\source\repos\TermProject\TermProject\Lib.c(299,9): warning C4101: 'c': unreferenced local variable
+C:\Users\User\source\repos\TermProject\TermProject\Lib.c(403,10): warning C4098: 'delete': 'void' function returning a value
+C:\Users\User\source\repos\TermProject\TermProject\Lib.c(559,33): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+C:\Users\User\source\repos\TermProject\TermProject\Lib.c(559,28): warning C4024: 'strcmp': different types for formal and actual parameter 1
+C:\Users\User\source\repos\TermProject\TermProject\Lib.c(559,52): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+C:\Users\User\source\repos\TermProject\TermProject\Lib.c(559,47): warning C4024: 'strcmp': different types for formal and actual parameter 2
+C:\Users\User\source\repos\TermProject\TermProject\Lib.c(621,6): warning C4101: 'id': unreferenced local variable
+C:\Users\User\source\repos\TermProject\TermProject\Lib.c(621,10): warning C4101: 'n': unreferenced local variable
+  project.c
+C:\Users\User\source\repos\TermProject\TermProject\Lib.h(16,2): warning C4091: 'typedef ': ignored on left of 'size' when no variable is declared
+  readline.c
+  Generating Code...
+  TermProject.vcxproj -> C:\Users\User\source\repos\TermProject\Debug\TermProject.exe
